@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basicUtils basicUtils is MatchSnapshot 1`] = `
+Object {
+  "createEffects": [Function],
+  "getType": [Function],
+  "isString": [Function],
+  "objCompare": [Function],
+  "randChar": [Function],
+  "resolveSearch": [Function],
+}
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`localStorage localStorage is MatchSnapshot 1`] = `
+Object {
+  "deleteStroage": [Function],
+  "getStroage": [Function],
+  "setStorage": [Function],
+}
+`;
